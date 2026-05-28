@@ -13,7 +13,7 @@ job-market-analysis/
 │
 ├── sql/                      # All SQL scripts
 │
-├── dashboard/                # Power BI .pbix file
+├── dashboard/                # Power BI .pbix file and screenshots of the dashboard
 │
 └── README.md
 ```
