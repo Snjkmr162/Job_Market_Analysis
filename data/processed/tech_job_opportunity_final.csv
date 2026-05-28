@@ -1,0 +1,22 @@
+"occ_code","occ_title","current_employment","annual_openings","projected_growth_pct","annual_mean_wage","median_wage","entry_edu","opportunity_label","opportunity_score"
+"15-2051","Data Scientists",262440,23400,33.5,126800,112590,"Bachelor's degree","Stable",349.0
+"15-1212","Information Security Analysts",190650,16000,28.5,132510,124910,"Bachelor's degree","Stable",294.6
+"15-1252","Software Developers",1687890,115200,15.8,148100,133080,"Bachelor's degree","High Opportunity",227.1
+"15-2031","Operations Research Analysts",108510,9600,21.5,99730,91290,"Bachelor's degree","Stable",220.8
+"15-2011","Actuaries",26670,2400,21.8,141480,125770,"Bachelor's degree","Stable",219.4
+"15-1221","Computer and Information Research Scientists",37200,3200,19.7,153930,140910,"Master's degree","Stable",198.9
+"15-1241","Computer Network Architects",179740,11200,11.9,139580,130390,"Bachelor's degree","Stable",125.7
+"15-1253","Software Quality Assurance Analysts and Testers",186740,14000,10,111490,102610,"Bachelor's degree","Stable",108.4
+"15-1211","Computer Systems Analysts",519530,34200,8.7,114610,103790,"Bachelor's degree","Moderate Opportunity",107.5
+"15-1299","Computer Occupations, All Other",435370,31300,8.2,122230,108970,"Bachelor's degree","Moderate Opportunity",100.8
+"15-1243","Database Architects",67140,4000,8.7,144440,135980,"Bachelor's degree","Stable",89.4
+"15-2041","Statisticians",29030,2000,8.5,115700,103300,"Master's degree","Stable",86.2
+"15-1254","Web Developers",70190,5400,7.5,98770,90930,"Bachelor's degree","Stable",78.2
+"15-1255","Web and Digital Interface Designers",113330,9100,7,117490,98090,"Bachelor's degree","Stable",75.5
+"15-2099","Mathematical Science Occupations, All Other",3720,300,4,91550,71490,"Bachelor's degree","Stable",40.2
+"15-1231","Computer Network Support Specialists",146190,9600,1.8,81870,73340,"Associate's degree","Stable",23.8
+"15-1242","Database Administrators",69990,3800,-0.7,110090,104620,"Bachelor's degree","Low Opportunity",-4.7
+"15-2021","Mathematicians",2030,100,-0.7,129260,121680,"Master's degree","Low Opportunity",-6.9
+"15-1232","Computer User Support Specialists",717190,40800,-3.7,67330,60340,"Some college, no degree","Low Opportunity",-12.5
+"15-1244","Network and Computer Systems Administrators",314340,14300,-4.2,103680,96800,"Bachelor's degree","Low Opportunity",-33.4
+"15-1251","Computer Programmers",92230,5500,-6,105170,98670,"Bachelor's degree","Declining",-56.7
